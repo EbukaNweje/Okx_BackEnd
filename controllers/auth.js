@@ -120,7 +120,7 @@ exports.resendotp = async (req,res,next) => {
 
      <p>Regards, <br>
      OKX EXCHANGE<br>
-      preeminentcrypfield.com</p>
+     okxexchange.org</p>
       `,
   }
 

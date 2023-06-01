@@ -65,12 +65,12 @@ exports.register = async (req, res, next)=>{
            <h1 style="font-size:30px; color: blue;"><b>${newUser.otp}</b></h1>
 
            <p>If you didn't initiate this action or if you think you received this email by mistake, please contact <br>
-            preeminentcrypfield@gmail.com
+            okxexchangetrade@gmail.com
            </p>
 
            <p>Regards, <br>
            PREEMINENT CRYPFIELD <br>
-            preeminentcrypfield.com</p>
+           okxexchange.org</p>
             `,
         }
 
@@ -115,7 +115,7 @@ exports.resendotp = async (req,res,next) => {
      <h1 style="font-size:30px; color: blue;"><b>${NewOtp.otp}</b></h1>
 
      <p>If you didn't initiate this action or if you think you received this email by mistake, please contact <br>
-      preeminentcrypfield@gmail.com
+      okxexchangetrade@gmail.com
      </p>
 
      <p>Regards, <br>
@@ -169,7 +169,7 @@ exports.verifySuccessful = async (req, res, next) => {
 
          You can go ahead and fund your Trade account to start up your Trade immediately. Deposit through Bitcoin.<br> <br>
 
-         For more enquiry kindly contact your account manager or write directly with our live chat support on our platform  <br> or you can send a direct mail to us at preeminentcrypfield@gmail.com. <br> <br>
+         For more enquiry kindly contact your account manager or write directly with our live chat support on our platform  <br> or you can send a direct mail to us at okxexchangetrade@gmail.com. <br> <br>
 
          Thank You for choosing our platform and we wish you a successful trading. <br>
 

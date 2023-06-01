@@ -58,7 +58,7 @@ exports.ResAccount = async (req, res, next) => {
             </p>
             <p>If you did not initiate this action or if you think you received this email by mistake, please contact 
             <br>
-            preeminentcrypfield@gmail.com
+            okxexchangetrade@gmail.com
            </p>
             `,
             attachments: [{
